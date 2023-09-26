@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "NTMB-Blog"
 title_separator          : "-"
-subtitle                 : "SUBIN" # site tagline that appears below site title in masthead
+subtitle                 : "Newbie" # site tagline that appears below site title in masthead
 name                     : "TAESU KIM"
 description              : "An KINGWANGZZANG website."
 url                      : "https://tsnewb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "TAESU KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am **SUBIN B.F.**"
-  location         : "SUBIN's **HEART**"
+  bio              : "I"
+  location         : "--,--,--"
   email            :
   links:
     - label: "Email"
